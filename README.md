@@ -1,0 +1,1 @@
+To use create a .env file one level under the project directoryh and load your DISCORD_API_TOKEN and LEAGUE_API_TOKEN from https://discord.com/developers/applications and https://developer.riotgames.com/

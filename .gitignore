@@ -1,0 +1,39 @@
+# Ignore .pyc files
+*.pyc
+
+# Ignore __pycache__ directory
+__pycache__
+
+# Ignore setup.cfg file
+setup.cfg
+
+# Ignore all image files and directories
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.svg
+*.ico
+*.tif
+*.tiff
+*.webp
+**/images/
+**/img/
+**/pictures/
+**/photos/
+
+# Ignore .env file
+.env
+
+# Ignore database file
+*.db
+
+# Except the static_images directory and its contents
+!static_images/
+!static_images/**
+
+# Ignore all JSON files except specific ones
+*.json
+!config.json
+!data.json

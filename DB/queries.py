@@ -262,10 +262,3 @@ def get_champion_name(champion_id: int):
         return champion_nanme
     return None
 
-
-# async def get_images(champion_one: str, champion_two: str, position: str, build_flag: str):
-
-
-
-
-
